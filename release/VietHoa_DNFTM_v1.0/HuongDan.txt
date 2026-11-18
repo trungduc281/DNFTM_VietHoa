@@ -1,0 +1,33 @@
+VIỆT HÓA DO NOT FEED THE MONKEYS (2018) - v1.0
+==============================================
+
+CÀI ĐẶT
+1. Tắt game.
+2. Mở thư mục VietHoa_DNFTM, chạy VietHoa_DNFTM.exe.
+3. Trình cài tự tìm game nếu cài qua Steam. Nếu không, dán đường dẫn thư mục game
+   (thư mục chứa dnftm.exe, ví dụ D:\Steam\steamapps\common\DNFTM) hoặc bấm "Chọn...".
+4. Bấm "Cài Việt hóa", chờ khoảng 1 phút.
+5. Mở game. Ngôn ngữ đã được đặt sẵn là TIẾNG VIỆT
+   (nếu chưa: SETTINGS > LANGUAGE > chọn "TIẾNG VIỆT" > APPLY CHANGES).
+
+GỠ VIỆT HÓA
+- Chạy lại VietHoa_DNFTM.exe, bấm "Gỡ Việt hóa". Game trở về nguyên gốc.
+- Nếu mất bản sao lưu: trên Steam, chuột phải game > Properties > Installed Files >
+  Verify integrity of game files.
+
+KHI STEAM CẬP NHẬT GAME
+- Nếu chữ trong game không còn là tiếng Việt, chỉ cần chạy lại trình cài và bấm "Cài lại Việt hóa".
+- Trình cài vá trực tiếp lên file game hiện có; chuỗi mới (nếu có) tạm hiện tiếng Anh.
+  Nếu game thay đổi quá nhiều, trình cài sẽ báo không tương thích và KHÔNG sửa file nào.
+
+LƯU Ý
+- Ngôn ngữ Tiếng Việt dùng vị trí của tiếng Hàn trong game (game không cho thêm ngôn ngữ mới).
+- File gốc được sao lưu trong <thư mục game>\_VietHoa_backup. Đừng xóa thư mục này nếu còn muốn gỡ.
+- Trình cài không có chữ ký số nên Windows SmartScreen có thể cảnh báo:
+  bấm "More info" > "Run anyway".
+- Đã thử với bản Steam. Bản GOG/khác chưa được kiểm tra.
+- Bộ cài không chứa file gốc nào của game.
+
+FONT
+Be Vietnam Pro, Noto Serif, Patrick Hand - giấy phép SIL Open Font License 1.1
+(xem thư mục GiayPhepFont).

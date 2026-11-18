@@ -1,0 +1,145 @@
+{
+  "menu": {
+    "exitText": "Bạn có chắc muốn thoát không?\n<size=65>(Nếu thoát, bạn sẽ mất tiến trình của ngày hôm nay)</size>",
+    "exitYes": "Có",
+    "exitNo": "Không",
+    "avatar": "Chọn ảnh đại diện:",
+    "tutorial": "Hướng dẫn",
+    "continue": "TIẾP TỤC",
+    "newGame": "CHƠI MỚI",
+    "loadGame": "TẢI GAME",
+    "options": "CÀI ĐẶT",
+    "credits": "THỰC HIỆN",
+    "exit": "THOÁT",
+    "resolution": "ĐỘ PHÂN GIẢI",
+    "fullScreen": "TOÀN MÀN HÌNH",
+    "vsync": "VSYNC",
+    "music": "ÂM LƯỢNG NHẠC",
+    "fx": "ÂM LƯỢNG HIỆU ỨNG",
+    "lang": "NGÔN NGỮ",
+    "currentLang": "TIẾNG VIỆT",
+    "apply": "ÁP DỤNG",
+    "idiomaSP": "TIẾNG TÂY BAN NHA",
+    "idiomaENG": "TIẾNG ANH",
+    "confirmNewGame": "Bạn có muốn bắt đầu trò chơi mới không?"
+  },
+  "mainMenu": {
+    "newGame": "Chơi mới",
+    "exit": "Thoát",
+    "exitTag": "Nhấn \"Q\" để thoát game"
+  },
+  "interface": {
+    "health": "SỨC KHỎE",
+    "working": "Đang làm việc",
+    "sleeping": "Đang ngủ",
+    "buying": "Đang mua sắm",
+    "resting": "Đang hồi sức",
+    "appNameEmail": "Thư",
+    "appNameCalendar": "Lịch",
+    "appNameBrowser": "Trình duyệt",
+    "appNameChat": "ChatMeGo",
+    "appNameBank": "Tài chính",
+    "appNameCameras": "MonkeyVision 2.1",
+    "appNameShop": "ProOwl Mart",
+    "installingEmail": "Đang cập nhật Thư",
+    "installingCalendar": "Đang cập nhật Lịch",
+    "installingBrowser": "Đang cập nhật Trình duyệt",
+    "installingChat": "Đang cập nhật ChatMeGo",
+    "installingBank": "Đang cập nhật Tài chính",
+    "installingCameras": "Đang cài đặt MonkeyVision 2.1",
+    "installingShop": "Đang cài đặt ProOwl Mart"
+  },
+  "briefing": {
+    "mainText": "<size=200>Ngày [dayNumber]</size>\n\n\nThứ hạng hiện tại của bạn trong Hội là <b>Cấp [levelNumber]: [levelString]</b>\nSố ngày còn lại tới đợt đánh giá tiếp theo: <b>[meetingDays]</b>\nBạn có <b>[numCameras]/[neededCameras]</b> camera cần thiết để lên cấp tiếp theo\nBà chủ nhà sẽ quay lại vào <b>[daysLandlord]</b>",
+    "twoDays": "ngày kia",
+    "oneDay": "ngày mai",
+    "today": "hôm nay",
+    "nextLevel": "<size=200>Ngày [dayNumber]</size>\n\nBạn đã được thăng lên <b>Cấp [levelNumber]: [levelString]</b>\nSố ngày còn lại tới đợt đánh giá tiếp theo: <b>[meetingDays]</b>\nBạn có <b>[numCameras]/[neededCameras]</b> camera cần thiết để lên cấp tiếp theo\nBà chủ nhà sẽ quay lại vào <b>[daysLandlord]</b>"
+  },
+  "main": {
+    "level1": "Bạn của Lũ Khỉ",
+    "level2": "Nhà Động Vật Học Nghiệp Dư",
+    "level3": "Thạc Sĩ Linh Trưởng Học"
+  },
+  "diary": {
+    "pending": "-ĐANG CHỜ-",
+    "lost": "-MẤT TÍN HIỆU-",
+    "end": "-ĐÃ XONG-"
+  },
+  "fridge": {
+    "fruit": "Trái cây",
+    "yogourt": "Sữa chua",
+    "chicken": "Thịt gà",
+    "coffee": "Cà phê",
+    "fruitLower": "trái cây",
+    "yogourtLower": "sữa chua",
+    "chickenLower": "thịt gà",
+    "coffeeLower": "cà phê",
+    "pizza": "pizza",
+    "hotDog": "xúc xích kẹp",
+    "chinese": "đồ ăn Trung Hoa",
+    "promo": "Mở cửa 24 giờ"
+  },
+  "work": {
+    "payment": "TIỀN CÔNG:",
+    "time": "GIỜ NHẬN VIỆC:",
+    "duration": "THỜI LƯỢNG:",
+    "hours": "<b>giờ</b>",
+    "hour": "<b>giờ</b>"
+  },
+  "email": {
+    "sent": "Đã gửi thư",
+    "readMore": "(Đọc tiếp...)",
+    "from": "NGƯỜI GỬI",
+    "subject": "CHỦ ĐỀ",
+    "days": "SỐ NGÀY CÒN LẠI"
+  },
+  "phone": {
+    "noAnswer": "KHÔNG AI TRẢ LỜI",
+    "calling": "** ĐANG GỌI **"
+  },
+  "sleep": {
+    "popupText": "Thời gian ngủ",
+    "hours": "giờ"
+  },
+  "browser": {
+    "searchEmpty": "KHÔNG TÌM THẤY KẾT QUẢ",
+    "searchEmpty2": "Chúng tôi không tìm thấy kết quả nào phù hợp",
+    "searchButton": "Tìm giùm tôi",
+    "searchTagline": "Danh bạ đầy đủ nhất trên Internet",
+    "newsSource": "Nguồn"
+  },
+  "bank": {
+    "quantity": "SỐ TIỀN",
+    "subject": "KHOẢN MỤC",
+    "day": "NGÀY",
+    "total": "SỐ DƯ"
+  },
+  "om": {
+    "1": "Hệ điều hành (OM)niscient",
+    "2": "Phiên bản 6.1",
+    "4": "CẢNH BÁO:",
+    "5": "· Bản OM này không phải hàng chính hãng",
+    "6": "· Có thể bạn là nạn nhân của phần mềm giả mạo"
+  },
+  "stamp": {
+    "pending": "ĐANG CHỜ",
+    "closed": "ĐÃ ĐÓNG",
+    "nosignal": "MẤT TÍN HIỆU"
+  },
+  "initGameTexts": {
+    "landlordFirstNote1": "Mày đâu rồi, đồ ăn bám?\n\nNhớ là chiều mai tao tới thu tiền nhà đấy. ${%debt} như mọi khi. Chuẩn bị sẵn tiền đi… Tao không muốn nghe lý do gì hết!\n\nBà chủ nhà",
+    "landlordFirstNote2": "Mày đâu rồi, đồ ăn bám?\n\nNhớ là hai ngày nữa, vào buổi chiều, tao tới thu tiền nhà đấy. ${%debt} như mọi khi. Chuẩn bị sẵn tiền đi… Tao không muốn nghe lý do gì hết!\n\nBà chủ nhà",
+    "landlordFirstNote3": "Mày đâu rồi, đồ ăn bám?\n\nNhớ là hôm nay tao tới thu tiền nhà đấy. $90 như mọi khi. Liệu mà có sẵn tiền... Tao không muốn nghe lý do gì hết!\n\nBà chủ nhà"
+  },
+  "chat": {
+    "writting": "Đang soạn...",
+    "sending": "Đang gửi..."
+  },
+  "modoHistoria": {
+    "1": "CHẾ ĐỘ NHÌN TRỘM: quản lý tài nguyên dễ dàng, dành nhiều thời gian hơn cho việc quan sát. Thành tựu sẽ bị tắt."
+  },
+  "mainText": {
+    "briefing16": "<size=200>Ngày [dayNumber]</size>"
+  }
+}
